@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=0'>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="Description" content="">
+		<meta name="Author" content="">
+		<meta name="Keywords" content=""/>
+		<!-- Title -->
+		<title>สศอ</title>
+		<link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+		<style type="text/css">
+			body{
+				font-family: 'Sarabun';
+			}
+		</style>
+	</head>
+
+	<body style="padding: 0;margin: 0;background: #F9F9F9;" >
+		<div class="email " style="max-width: 1000px;position: relative;margin: 0 auto;background-color: #FFF;margin-top: 60px;margin-bottom: 60px;">
+
+			<div style="background: #FC8004;border-radius: 15px 15px  0px 0px ;padding: 10px;"></div>
+
+			<div style="text-align: center;margin-bottom: 64px;margin-top: 64px;">
+				<img src="assets/images/logo3.png" width="384">
+			</div>
+
+			<div style="text-align: center;margin-bottom: 47px;">
+				<img src="assets/images/access.png" width="142">
+			</div>
+
+			<div style="text-align: center;">
+
+				<div style="font-family: 'Sarabun';font-style: normal;font-weight: 700;font-size: 24px;line-height: 20px;text-align: center;letter-spacing: 0.3px;color: #FF0000;margin-bottom: 22px;">รีเซ็ตรหัสผ่านของคุณ </div>
+
+				<div style="font-family: 'Sarabun';font-style: normal;font-weight: 500;font-size: 24px;line-height: 20px;text-align: center;letter-spacing: 0.3px;color: #505050;margin-bottom: 44px;">มีการขอรีเซ็ตรหัสผ่านของบัญชี สศอ. ที่ใช้บัญชีอีเมล </div>
+
+				<div style="font-family: 'Sarabun';font-style: normal;font-weight: 700;font-size: 24px;line-height: 12px;letter-spacing: 0.3px;color: #33ADEF;">toie1546321@gmail.com</div>
+
+			</div>
+
+			<div style="text-align: center;margin-top: 80px;margin-bottom: 50px;">
+				<a href="" style="background: #FC8004;border-radius: 15px;text-decoration: none;font-family: 'Sarabun';font-style: normal;font-weight: 800;font-size: 24px;line-height: 20px;text-align: center;letter-spacing: 0.3px;color: #FFFFFF;padding: 25px;">เปลี่ยนรหัสผ่าน</a>
+			</div>
+
+
+			<div style="text-align: center;color: #515151;font-size: 18px;margin-bottom: 70px;">
+				(ลิ้งค์ของคุณจะหมดอายุภายใน 30 นาที หลังจากที่ได้รับอีเมลฉบับนี้)
+			</div>
+
+			<div style="font-size: 18px;background: #FC8004;border-radius:  0px 0px 15px 15px;text-align: center;color: #FFF;padding: 20px;">หากคุณไม่ได้มีการขอรีเซ็ตรหัสผ่าน คุณสามารถละทิ้งอีเมลนี้ และลงชื่อเข้าใช้ด้วยรหัสผ่านเดิมได้</div>
+		</div>
+	</body>
+</html>
+
+
+
+
